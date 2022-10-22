@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AryaClone/static/css/main.784404b0.css",
+    "main.js": "/AryaClone/static/js/main.0dce646f.js",
+    "static/js/787.a5cad257.chunk.js": "/AryaClone/static/js/787.a5cad257.chunk.js",
+    "static/media/gram.jpg": "/AryaClone/static/media/gram.6b81dc90beb20465352f.jpg",
+    "static/media/pea.jpg": "/AryaClone/static/media/pea.293e9b164d16cd8fa49b.jpg",
+    "static/media/wheat.jpg": "/AryaClone/static/media/wheat.0f6197c1f12ac4746831.jpg",
+    "static/media/banner.png": "/AryaClone/static/media/banner.788bc6d3c67924772806.png",
+    "index.html": "/AryaClone/index.html",
+    "main.784404b0.css.map": "/AryaClone/static/css/main.784404b0.css.map",
+    "main.0dce646f.js.map": "/AryaClone/static/js/main.0dce646f.js.map",
+    "787.a5cad257.chunk.js.map": "/AryaClone/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.784404b0.css",
+    "static/js/main.0dce646f.js"
+  ]
+}
